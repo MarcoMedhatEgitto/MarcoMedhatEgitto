@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Marco</h1>
+<h1 align="center">Hi 👋, I'm Marco Tanyous</h1>
 <h3 align="center">A backend developer and an AI engineer from Egypt</h3>
 
 - 🌱 I’m currently learning **Tensorflow and AI better solutions, I am also improving my skills in backend field**
